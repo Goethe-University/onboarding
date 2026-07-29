@@ -2,10 +2,9 @@
 
 > Dieses Dokument dient als Gerüst und wird nach und nach gefüllt und ergänzt. Die bisherigen Angaben haben eine Platzhalterfunktion.
 
+<img width="1618" height="121" alt="grafik" src="https://github.com/user-attachments/assets/76769002-63f1-4006-af96-83e8642a9a82" />
 
-<img width="1618" height="122" alt="grafik" src="https://github.com/user-attachments/assets/08ea4c8d-b031-466c-b9ec-89653f632a53" />
-
-# Getting started
+---
 
 Willkommen im Einstiegsbereich der GitHub-Organisation der Goethe-Universität. Hier sind praktische Anleitungen und Hinweise zu finden, die den Einstieg in die Arbeit mit GitHub erleichtern.
 
