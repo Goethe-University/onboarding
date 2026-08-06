@@ -6,12 +6,12 @@
 
 ---
 
-Willkommen im Einstiegsbereich der GitHub-Organisation der Goethe-Universität. Hier sind praktische Anleitungen und Hinweise zu finden, die den Einstieg in die Arbeit mit GitHub erleichtern.
+Willkommen im Einstiegsbereich für die GitHubNutzung an der Goethe-Universität. Hier sind praktische Anleitungen und Hinweise zu finden, die den Einstieg in die Arbeit mit GitHub erleichtern.
 
 * Wie komme ich an einen GitHub-Account und wofür?
 * Wie werde ich Teil der GU-Organisation in GitHub und warum?
 * Einrichten eines Repositoriums und Erstellen einer remote-Verbindung zu lokalem Git
-* Allgemeine Nutzungshinweise - (lieber woandershin?)
+* Allgemeine Nutzungshinweise
 
 
 Für nähere Informationen zum bewährten Umgang mit Repositories (Strukturieren, Dokumentieren und Zitierbarmachen) siehe [Best Practices](https://github.com/Goethe-University/best-practices).
@@ -42,7 +42,7 @@ Um auf die GitHub-Organisation der Goethe-Universität zuzugreifen und dort beis
   
   <summary>Warum eine GU-Organisation?</summary>
   
-  Die Mitgliedschaft in der GitHub-Organisation ermöglicht die gemeinsame Entwicklung und Verwaltung von Repositories innerhalb der Organisationsstruktur der Universität. Repositories können unter dem Namen der Universität veröffentlicht und gemeinsam mit anderen Mitgliedern gepflegt werden. Die Mitgliedschaft ergänzt den persönlichen GitHub-Account und ermöglicht die Mitarbeit an Projekten der Organisation. Siehe auch Sichtbarkeit (?)
+  Die Mitgliedschaft in der GitHub-Organisation ermöglicht die gemeinsame Entwicklung und Verwaltung von Repositories innerhalb der Organisationsstruktur der Universität. Repositories können unter dem Namen der Universität veröffentlicht und gemeinsam mit anderen Mitgliedern gepflegt werden. Die Mitgliedschaft ergänzt den persönlichen GitHub-Account und ermöglicht die Mitarbeit an Projekten der Organisation.
 
   Die GitHub-Organisation steht für Forschungsprojekte und andere universitäre Vorhaben zur Verfügung und ist nicht für private Projekte oder persönliche Aktivitäten geeignet.
 
