@@ -8,7 +8,7 @@
 
 ---
 
-Willkommen im Einstiegsbereich für die GitHubNutzung an der Goethe-Universität. Hier sind praktische Anleitungen und Hinweise zu finden, die den Einstieg in die Arbeit mit GitHub erleichtern.
+Willkommen im Einstiegsbereich für die GitHub-Nutzung an der Goethe-Universität. Hier sind praktische Anleitungen und Hinweise zu finden, die den Einstieg in die Arbeit mit GitHub erleichtern.
 
 * Wie komme ich an einen GitHub-Account und wofür?
 * Wie werde ich Teil der GU-Organisation in GitHub und warum?
@@ -24,7 +24,7 @@ Für nähere Informationen zum bewährten Umgang mit Repositories (Strukturieren
   
 <summary>Wofür ein GitHub-Account?</summary>
   
-Um auf die GitHub-Organisation der Goethe-Universität zuzugreifen und dort beispielsweise an Forschungsprojekten, Lehrprojekten oder Softwareentwicklungsprojekten mitzuwirken ist ein persönlicher Account ist erforderlich. Dieser kann kostenlos über die [GitHub Website](www.github.com) erstellt werden.
+Ein GitHub-Account ist das persönliche Benutzerkonto auf GitHub. Er ermöglicht die Erstellung und Verwaltung von Repositories, die Zusammenarbeit an Projekten sowie sowie die Versionsverwaltung mit Git. Ein persönlicher GitHub-Account ist zudem Voraussetzung für die Mitgliedschaft in der GitHub-Organisation der Universität.. Dieser kann kostenlos über die [GitHub Website](www.github.com) erstellt werden.
 
 </details>
 
