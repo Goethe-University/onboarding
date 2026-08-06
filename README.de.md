@@ -1,6 +1,8 @@
 ![Status: Work in Progress](https://img.shields.io/badge/status-work%20in%20progress-yellow)
 
-> Dieses Dokument dient als Gerüst und wird nach und nach gefüllt und ergänzt. Die bisherigen Angaben haben eine Platzhalterfunktion.
+> Dieses Dokument dient als Gerüst und wird nach und nach gefüllt und ergänzt.
+
+---
 
 <img width="1618" height="121" alt="grafik" src="https://github.com/user-attachments/assets/76769002-63f1-4006-af96-83e8642a9a82" />
 
